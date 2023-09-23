@@ -14,6 +14,10 @@
 
 ***
 
+**IntelliAI Landing Page Website:** <a href="https://dribbble.com/uploads/22642968-IntelliAI-Landing-Page-Website-Project/">https://dribbble.com/uploads/22642968-IntelliAI-Landing-Page-Website-Project/</a>
+
+<br>
+
 **IntelliAI Website UI:** <a href="https://dribbble.com/shots/22513885-IntelliAI-Website-Project">https://dribbble.com/shots/22513885-IntelliAI-Website-Project</a>
 
 **IntelliAI Website Logo:** <a href="(https://dribbble.com/shots/22513707-IntelliAI-Logo-Project)">https://dribbble.com/shots/22513707-IntelliAI-Logo-Project</a>
