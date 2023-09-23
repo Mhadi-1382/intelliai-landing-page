@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://github.com/Mhadi-1382/intelliai-website/blob/master/IntelliAI_Landing_Page_Cover.png" alt="intelliai-landing-page" description="With IntelliAI, unlock the power of Artificial Intelligence.">
+<img src="https://github.com/Mhadi-1382/intelliai-landing-page/blob/master/IntelliAI_Landing_Page_Cover.png" alt="intelliai-landing-page" description="With IntelliAI, unlock the power of Artificial Intelligence.">
 
 **With IntelliAI, unlock the power of Artificial Intelligence.**
 
